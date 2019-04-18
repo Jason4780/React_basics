@@ -1,0 +1,16 @@
+{
+  "name": "React_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "http-server": "^0.11.1"
+  }
+}
